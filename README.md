@@ -103,9 +103,9 @@
 # [<u>Model test</u>]
 
 - 모델 훈련 후 적용된 test set의 이미지를 무작위로 확인해본다.
-- 
+
 - 가장 높은 정확도를 보인 NASNetLarge와 비교적 낮은 정확도를 보인 ResNet50을 비교해본다.
-- 
+
 - "I"는 이미지 인덱스, "P"는 예측값, "L"은 실제 레이블 값으로 NASNetLarge가 ResNet50 보다 높은 정확성을 보이는 것을 확인 할 수 있다.(글자의 초록색은 예측값과 실제 레이블이 동일할 때 표현된다. 다르게 되면 빨간색으로 표현된다.)
 
 ![image](https://user-images.githubusercontent.com/89772868/162240303-ada4996a-d3c5-4e41-b3a1-a1755e250969.png)
