@@ -108,7 +108,7 @@
 ![image](https://user-images.githubusercontent.com/89772868/162976198-837021dd-6bf3-4a5f-8628-2c0525e46486.png)
 
 <br></br>
-- VGG16모델의 testaccuracy는 약 0.5703으로 나타난다.
+- VGG16모델의 test accuracy는 약 0.5703으로 나타난다.
 - Non-COVID-19를 감지하기 위한 f1 score(0.73)으로 나타난다.
 - VGG16 의 모델의 결과 COVID-19 X-ray 이미지를 감지하는데 낮은 성능을 나타낸다.
 
@@ -121,7 +121,7 @@
 ![image](https://user-images.githubusercontent.com/89772868/162976703-898124f1-c50c-4e10-8bdc-dd11786e9994.png)
 
 <br></br>
-- ResNet50모델의 testaccuracy는 약 0.4297으로 나타난다.
+- ResNet50모델의 test accuracy는 약 0.4297으로 나타난다.
 - COVID-19를 감지하기 위한 f1 score(0.60)으로 나타난다.
 - ResNet50의 모델의 결과 COVID-19 X-ray 이미지를 감지하는데 낮은 성능을 나타낸다.
 
@@ -135,7 +135,7 @@
 ![image](https://user-images.githubusercontent.com/89772868/162977061-4434a91d-508f-4c93-846a-bbc8c21037ad.png)
 
 <br></br>
-- NASNetLarge모델의 testaccuracy는 약 0.9289로 나타난다.
+- NASNetLarge모델의 test accuracy는 약 0.9289로 나타난다.
 - COVID-19를 감지하기 위한 f1 score(0.91)로 다음과 같이 나타난다.
 - NASNetLarge모델의 결과COVID-19 X-ray 이미지를 감지하는데 우수한 성능을 나타나는 것을 볼 수 있다.
 
